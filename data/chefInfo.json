@@ -1,0 +1,50 @@
+[
+    {
+        "pictureLink": "https://i.ibb.co/vh4nLYD/Chef-Moniruzzaman.jpg",
+        "name": "Mohammad Rahman",
+        "experience": 10,
+        "bio": "Chef John is an expert in Bangladeshi cuisine with a passion for using fresh, locally-sourced ingredients.",
+        "numRecipes": 3,
+        "numLikes": 1879
+    },
+    {
+        "pictureLink": "https://i.ibb.co/4fhYrfT/download.jpg",
+        "name": "Ahmed Khan",
+        "experience": 15,
+        "bio": "Chef Jane has spent years mastering the art of spice blending and creating complex, aromatic dishes.",
+        "numRecipes": 3,
+        "numLikes": 1447
+    },
+    {
+        "pictureLink": "https://i.ibb.co/VDwcghn/img-20200809-192445.webp",
+        "name": "Hassan Ahmed",
+        "experience": 8,
+        "bio": "Chef Jane has spent years mastering the art of spice blending and creating complex, aromatic dishes.",
+        "numRecipes": 3,
+        "numLikes": 1234
+    },
+    {
+        "pictureLink": "https://i.ibb.co/cw9LVgH/kishwar-1623251349509.jpg",
+        "name": "Aisha Khanam",
+        "experience": 10,
+        "bio": "Chef Jane has spent years mastering the art of spice blending and creating complex, aromatic dishes.",
+        "numRecipes": 3,
+        "numLikes": 1500
+    },
+    {
+        "pictureLink": "https://i.ibb.co/kc5StXV/Uddin-2-web.jpg",
+        "name": "Faisal Ahmed",
+        "experience": 15,
+        "bio": "Chef Jane has spent years mastering the art of spice blending and creating complex, aromatic dishes.",
+        "numRecipes": 15,
+        "numLikes": 907
+    },
+    {
+        "pictureLink": "https://i.ibb.co/JrBqhTM/images.jpg",
+        "name": "Farhan Islam",
+        "experience": 9,
+        "bio": "Chef Jane has spent years mastering the art of spice blending and creating complex, aromatic dishes.",
+        "numRecipes": 3,
+        "numLikes": 1776
+    }
+]
