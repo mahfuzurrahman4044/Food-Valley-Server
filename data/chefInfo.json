@@ -1,50 +1,274 @@
 [
     {
+        "id": 1,
         "pictureLink": "https://i.ibb.co/vh4nLYD/Chef-Moniruzzaman.jpg",
         "name": "Mohammad Rahman",
         "experience": 10,
         "bio": "Chef John is an expert in Bangladeshi cuisine with a passion for using fresh, locally-sourced ingredients.",
         "numRecipes": 3,
-        "numLikes": 1879
+        "numLikes": 1879,
+        "recipes": [
+            {
+                "recipeName": "Shorshe Ilish",
+                "ingredients": "Hilsa fish, Mustard oil, Mustard paste, Green chilli, Turmeric",
+                "cookingMethod": "Marinate fish with salt and turmeric powder. Fry the fish in mustard oil until lightly browned. In a separate pan, heat mustard oil and add mustard paste and green chili. Add water and simmer until the sauce thickens. Add fried fish to the sauce and cook for a few minutes. Serve hot with steamed rice.",
+                "rating": 4.5
+            },
+            {
+                "recipeName": "Chicken Rezala",
+                "ingredients": "Chicken, Yogurt, Ghee, Onion, Ginger, Garlic, Cardamom, Cinnamon, Cloves, Bay leaves, Chilli powder, Salt",
+                "cookingMethod": "Marinate chicken with yogurt, chilli powder, and salt for at least an hour. Heat ghee in a pan and fry onion until golden brown. Add ginger and garlic paste and cook until fragrant. Add marinated chicken and cook until the chicken is tender. Add cardamom, cinnamon, cloves, and bay leaves and cook for a few more minutes. Serve hot with naan or paratha.",
+                "rating": 4.8
+            },
+            {
+                "recipeName": "Beef Bhuna",
+                "ingredients": "Beef, Onion, Garlic, Ginger, Tomatoes, Green chilli, Turmeric, Chilli powder, Cumin powder, Coriander powder, Salt",
+                "cookingMethod": "Heat oil in a pan and fry sliced onions until golden brown. Add garlic and ginger paste and fry until fragrant. Add diced tomatoes, green chilli, turmeric, chilli powder, cumin powder, coriander powder, and salt. Cook until the tomatoes are soft and mushy. Add beef and cook on medium heat until the beef is tender and the sauce has thickened. Serve hot with rice or naan.",
+                "rating": 4.2
+            }
+        ],
+        "recipes": [
+            {
+                "recipeName": "Shorshe Ilish",
+                "ingredients": "Hilsa fish, Mustard oil, Mustard paste, Green chilli, Turmeric, Salt",
+                "cookingMethod": "Marinate fish with salt and turmeric powder. Fry the fish in mustard oil until lightly browned. In a separate pan, heat mustard oil and add mustard paste and green chili. Add water and simmer until the sauce thickens. Add fried fish to the sauce and cook for a few minutes. Serve hot with steamed rice.",
+                "rating": 4.5
+            },
+            {
+                "recipeName": "Chicken Rezala",
+                "ingredients": "Chicken, Yogurt, Ghee, Onion, Ginger, Garlic, Cardamom, Cinnamon, Cloves, Bay leaves, Chilli powder, Salt",
+                "cookingMethod": "Marinate chicken with yogurt, chilli powder, and salt for at least an hour. Heat ghee in a pan and fry onion until golden brown. Add ginger and garlic paste and cook until fragrant. Add marinated chicken and cook until the chicken is tender. Add cardamom, cinnamon, cloves, and bay leaves and cook for a few more minutes. Serve hot with naan or paratha.",
+                "rating": 4.8
+            },
+            {
+                "recipeName": "Beef Bhuna",
+                "ingredients": "Beef, Onion, Garlic, Ginger, Tomatoes, Green chilli, Turmeric, Chilli powder, Cumin powder, Coriander powder, Salt",
+                "cookingMethod": "Heat oil in a pan and fry sliced onions until golden brown. Add garlic and ginger paste and fry until fragrant. Add diced tomatoes, green chilli, turmeric, chilli powder, cumin powder, coriander powder, and salt. Cook until the tomatoes are soft and mushy. Add beef and cook on medium heat until the beef is tender and the sauce has thickened. Serve hot with rice or naan.",
+                "rating": 4.2
+            }
+        ]
     },
     {
+        "id": 2,
         "pictureLink": "https://i.ibb.co/4fhYrfT/download.jpg",
         "name": "Ahmed Khan",
         "experience": 15,
         "bio": "Chef Jane has spent years mastering the art of spice blending and creating complex, aromatic dishes.",
         "numRecipes": 3,
-        "numLikes": 1447
+        "numLikes": 1447,
+        "recipes": [
+            {
+                "recipeName": "Shorshe Ilish",
+                "ingredients": "Hilsa fish, Mustard oil, Mustard paste, Green chilli, Turmeric, Salt",
+                "cookingMethod": "Marinate fish with salt and turmeric powder. Fry the fish in mustard oil until lightly browned. In a separate pan, heat mustard oil and add mustard paste and green chili. Add water and simmer until the sauce thickens. Add fried fish to the sauce and cook for a few minutes. Serve hot with steamed rice.",
+                "rating": 4.5
+            },
+            {
+                "recipeName": "Chicken Rezala",
+                "ingredients": "Chicken, Yogurt, Ghee, Onion, Ginger, Garlic, Cardamom, Cinnamon, Cloves, Bay leaves, Chilli powder, Sal",
+                "cookingMethod": "Marinate chicken with yogurt, chilli powder, and salt for at least an hour. Heat ghee in a pan and fry onion until golden brown. Add ginger and garlic paste and cook until fragrant. Add marinated chicken and cook until the chicken is tender. Add cardamom, cinnamon, cloves, and bay leaves and cook for a few more minutes. Serve hot with naan or paratha.",
+                "rating": 4.8
+            },
+            {
+                "recipeName": "Beef Bhuna",
+                "ingredients": "Beef, Onion, Garlic, Ginger, Tomatoes, Green chilli, Turmeric, Chilli powder, Cumin powder, Coriander powder, Salt",
+                "cookingMethod": "Heat oil in a pan and fry sliced onions until golden brown. Add garlic and ginger paste and fry until fragrant. Add diced tomatoes, green chilli, turmeric, chilli powder, cumin powder, coriander powder, and salt. Cook until the tomatoes are soft and mushy. Add beef and cook on medium heat until the beef is tender and the sauce has thickened. Serve hot with rice or naan.",
+                "rating": 4.2
+            }
+        ],
+        "recipes": [
+            {
+                "recipeName": "Shorshe Ilish",
+                "ingredients": "Hilsa fish, Mustard oil, Mustard paste, Green chilli, Turmeric",
+                "cookingMethod": "Marinate fish with salt and turmeric powder. Fry the fish in mustard oil until lightly browned. In a separate pan, heat mustard oil and add mustard paste and green chili. Add water and simmer until the sauce thickens. Add fried fish to the sauce and cook for a few minutes. Serve hot with steamed rice.",
+                "rating": 4.5
+            },
+            {
+                "recipeName": "Chicken Rezala",
+                "ingredients": "Chicken, Yogurt, Ghee, Onion, Ginger, Garlic, Cardamom, Cinnamon, Cloves, Bay leaves, Chilli powder, Salt",
+                "cookingMethod": "Marinate chicken with yogurt, chilli powder, and salt for at least an hour. Heat ghee in a pan and fry onion until golden brown. Add ginger and garlic paste and cook until fragrant. Add marinated chicken and cook until the chicken is tender. Add cardamom, cinnamon, cloves, and bay leaves and cook for a few more minutes. Serve hot with naan or paratha.",
+                "rating": 4.8
+            },
+            {
+                "recipeName": "Beef Bhuna",
+                "ingredients": "Beef, Onion, Garlic, Ginger, Tomatoes, Green chilli, Turmeric, Chilli powder, Cumin powder, Coriander powder, Salt",
+                "cookingMethod": "Heat oil in a pan and fry sliced onions until golden brown. Add garlic and ginger paste and fry until fragrant. Add diced tomatoes, green chilli, turmeric, chilli powder, cumin powder, coriander powder, and salt. Cook until the tomatoes are soft and mushy. Add beef and cook on medium heat until the beef is tender and the sauce has thickened. Serve hot with rice or naan.",
+                "rating": 4.2
+            }
+        ]
     },
     {
+        "id": 3,
         "pictureLink": "https://i.ibb.co/VDwcghn/img-20200809-192445.webp",
         "name": "Hassan Ahmed",
         "experience": 8,
         "bio": "Chef Jane has spent years mastering the art of spice blending and creating complex, aromatic dishes.",
         "numRecipes": 3,
-        "numLikes": 1234
+        "numLikes": 1234,
+        "recipes": [
+            {
+                "recipeName": "Shorshe Ilish",
+                "ingredients": "Hilsa fish, Mustard oil, Mustard paste, Green chilli, Turmeric",
+                "cookingMethod": "Marinate fish with salt and turmeric powder. Fry the fish in mustard oil until lightly browned. In a separate pan, heat mustard oil and add mustard paste and green chili. Add water and simmer until the sauce thickens. Add fried fish to the sauce and cook for a few minutes. Serve hot with steamed rice.",
+                "rating": 4.5
+            },
+            {
+                "recipeName": "Chicken Rezala",
+                "ingredients": "Chicken, Yogurt, Ghee, Onion, Ginger, Garlic, Cardamom, Cinnamon, Cloves, Bay leaves, Chilli powder, Salt",
+                "cookingMethod": "Marinate chicken with yogurt, chilli powder, and salt for at least an hour. Heat ghee in a pan and fry onion until golden brown. Add ginger and garlic paste and cook until fragrant. Add marinated chicken and cook until the chicken is tender. Add cardamom, cinnamon, cloves, and bay leaves and cook for a few more minutes. Serve hot with naan or paratha.",
+                "rating": 4.8
+            },
+            {
+                "recipeName": "Beef Bhuna",
+                "ingredients": "Beef, Onion, Garlic, Ginger, Tomatoes, Green chilli, Turmeric, Chilli powder, Cumin powder, Coriander powder, Salt",
+                "cookingMethod": "Heat oil in a pan and fry sliced onions until golden brown. Add garlic and ginger paste and fry until fragrant. Add diced tomatoes, green chilli, turmeric, chilli powder, cumin powder, coriander powder, and salt. Cook until the tomatoes are soft and mushy. Add beef and cook on medium heat until the beef is tender and the sauce has thickened. Serve hot with rice or naan.",
+                "rating": 4.2
+            }
+        ]
     },
     {
+        "id": 4,
         "pictureLink": "https://i.ibb.co/cw9LVgH/kishwar-1623251349509.jpg",
         "name": "Aisha Khanam",
         "experience": 10,
         "bio": "Chef Jane has spent years mastering the art of spice blending and creating complex, aromatic dishes.",
         "numRecipes": 3,
-        "numLikes": 1500
+        "numLikes": 1500,
+        "recipes": [
+            {
+                "recipeName": "Shorshe Ilish",
+                "ingredients": "Hilsa fish, Mustard oil, Mustard paste, Green chilli, Turmeric",
+                "cookingMethod": "Marinate fish with salt and turmeric powder. Fry the fish in mustard oil until lightly browned. In a separate pan, heat mustard oil and add mustard paste and green chili. Add water and simmer until the sauce thickens. Add fried fish to the sauce and cook for a few minutes. Serve hot with steamed rice.",
+                "rating": 4.5
+            },
+            {
+                "recipeName": "Chicken Rezala",
+                "ingredients": "Chicken, Yogurt, Ghee, Onion, Ginger, Garlic, Cardamom, Cinnamon, Cloves, Bay leaves, Chilli powder, Salt",
+                "cookingMethod": "Marinate chicken with yogurt, chilli powder, and salt for at least an hour. Heat ghee in a pan and fry onion until golden brown. Add ginger and garlic paste and cook until fragrant. Add marinated chicken and cook until the chicken is tender. Add cardamom, cinnamon, cloves, and bay leaves and cook for a few more minutes. Serve hot with naan or paratha.",
+                "rating": 4.8
+            },
+            {
+                "recipeName": "Beef Bhuna",
+                "ingredients": "Beef, Onion, Garlic, Ginger, Tomatoes, Green chilli, Turmeric, Chilli powder, Cumin powder, Coriander powder, Salt",
+                "cookingMethod": "Heat oil in a pan and fry sliced onions until golden brown. Add garlic and ginger paste and fry until fragrant. Add diced tomatoes, green chilli, turmeric, chilli powder, cumin powder, coriander powder, and salt. Cook until the tomatoes are soft and mushy. Add beef and cook on medium heat until the beef is tender and the sauce has thickened. Serve hot with rice or naan.",
+                "rating": 4.2
+            }
+        ]
     },
     {
+        "id": 5,
         "pictureLink": "https://i.ibb.co/kc5StXV/Uddin-2-web.jpg",
         "name": "Faisal Ahmed",
         "experience": 15,
         "bio": "Chef Jane has spent years mastering the art of spice blending and creating complex, aromatic dishes.",
         "numRecipes": 15,
-        "numLikes": 907
+        "numLikes": 907,
+        "recipes": [
+            {
+                "recipeName": "Shorshe Ilish",
+                "ingredients": "Hilsa fish, Mustard oil, Mustard paste, Green chilli, Turmeric",
+                "cookingMethod": "Marinate fish with salt and turmeric powder. Fry the fish in mustard oil until lightly browned. In a separate pan, heat mustard oil and add mustard paste and green chili. Add water and simmer until the sauce thickens. Add fried fish to the sauce and cook for a few minutes. Serve hot with steamed rice.",
+                "rating": 4.5
+            },
+            {
+                "recipeName": "Chicken Rezala",
+                "ingredients": "Chicken, Yogurt, Ghee, Onion, Ginger, Garlic, Cardamom, Cinnamon, Cloves, Bay leaves, Chilli powder, Salt",
+                "cookingMethod": "Marinate chicken with yogurt, chilli powder, and salt for at least an hour. Heat ghee in a pan and fry onion until golden brown. Add ginger and garlic paste and cook until fragrant. Add marinated chicken and cook until the chicken is tender. Add cardamom, cinnamon, cloves, and bay leaves and cook for a few more minutes. Serve hot with naan or paratha.",
+                "rating": 4.8
+            },
+            {
+                "recipeName": "Beef Bhuna",
+                "ingredients": "Beef, Onion, Garlic, Ginger, Tomatoes, Green chilli, Turmeric, Chilli powder, Cumin powder, Coriander powder, Salt",
+                "cookingMethod": "Heat oil in a pan and fry sliced onions until golden brown. Add garlic and ginger paste and fry until fragrant. Add diced tomatoes, green chilli, turmeric, chilli powder, cumin powder, coriander powder, and salt. Cook until the tomatoes are soft and mushy. Add beef and cook on medium heat until the beef is tender and the sauce has thickened. Serve hot with rice or naan.",
+                "rating": 4.2
+            }
+        ]
     },
     {
+        "id": 6,
         "pictureLink": "https://i.ibb.co/JrBqhTM/images.jpg",
         "name": "Farhan Islam",
         "experience": 9,
         "bio": "Chef Jane has spent years mastering the art of spice blending and creating complex, aromatic dishes.",
         "numRecipes": 3,
-        "numLikes": 1776
+        "numLikes": 1776,
+        "recipes": [
+            {
+                "recipeName": "Shorshe Ilish",
+                "ingredients": "Hilsa fish, Mustard oil, Mustard paste, Green chilli, Turmeric",
+                "cookingMethod": "Marinate fish with salt and turmeric powder. Fry the fish in mustard oil until lightly browned. In a separate pan, heat mustard oil and add mustard paste and green chili. Add water and simmer until the sauce thickens. Add fried fish to the sauce and cook for a few minutes. Serve hot with steamed rice.",
+                "rating": 4.5
+            },
+            {
+                "recipeName": "Chicken Rezala",
+                "ingredients": "Chicken, Yogurt, Ghee, Onion, Ginger, Garlic, Cardamom, Cinnamon, Cloves, Bay leaves, Chilli powder, Salt",
+                "cookingMethod": "Marinate chicken with yogurt, chilli powder, and salt for at least an hour. Heat ghee in a pan and fry onion until golden brown. Add ginger and garlic paste and cook until fragrant. Add marinated chicken and cook until the chicken is tender. Add cardamom, cinnamon, cloves, and bay leaves and cook for a few more minutes. Serve hot with naan or paratha.",
+                "rating": 4.8
+            },
+            {
+                "recipeName": "Beef Bhuna",
+                "ingredients": "Beef, Onion, Garlic, Ginger, Tomatoes, Green chilli, Turmeric, Chilli powder, Cumin powder, Coriander powder, Salt",
+                "cookingMethod": "Heat oil in a pan and fry sliced onions until golden brown. Add garlic and ginger paste and fry until fragrant. Add diced tomatoes, green chilli, turmeric, chilli powder, cumin powder, coriander powder, and salt. Cook until the tomatoes are soft and mushy. Add beef and cook on medium heat until the beef is tender and the sauce has thickened. Serve hot with rice or naan.",
+                "rating": 4.2
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "pictureLink": "https://i.ibb.co/vwrkbYn/Jose-Thomas-Executive-Chef-scaled.jpg",
+        "name": "Khaled Muhiuddin",
+        "experience": 8,
+        "bio": "Chef Jane has spent years mastering the art of spice blending and creating complex, aromatic dishes.",
+        "numRecipes": 3,
+        "numLikes": 786,
+        "recipes": [
+            {
+                "recipeName": "Shorshe Ilish",
+                "ingredients": "Hilsa fish, Mustard oil, Mustard paste, Green chilli, Turmeric",
+                "cookingMethod": "Marinate fish with salt and turmeric powder. Fry the fish in mustard oil until lightly browned. In a separate pan, heat mustard oil and add mustard paste and green chili. Add water and simmer until the sauce thickens. Add fried fish to the sauce and cook for a few minutes. Serve hot with steamed rice.",
+                "rating": 4.5
+            },
+            {
+                "recipeName": "Chicken Rezala",
+                "ingredients": "Chicken, Yogurt, Ghee, Onion, Ginger, Garlic, Cardamom, Cinnamon, Cloves, Bay leaves, Chilli powder, Salt",
+                "cookingMethod": "Marinate chicken with yogurt, chilli powder, and salt for at least an hour. Heat ghee in a pan and fry onion until golden brown. Add ginger and garlic paste and cook until fragrant. Add marinated chicken and cook until the chicken is tender. Add cardamom, cinnamon, cloves, and bay leaves and cook for a few more minutes. Serve hot with naan or paratha.",
+                "rating": 4.8
+            },
+            {
+                "recipeName": "Beef Bhuna",
+                "ingredients": "Beef, Onion, Garlic, Ginger, Tomatoes, Green chilli, Turmeric, Chilli powder, Cumin powder, Coriander powder, Salt",
+                "cookingMethod": "Heat oil in a pan and fry sliced onions until golden brown. Add garlic and ginger paste and fry until fragrant. Add diced tomatoes, green chilli, turmeric, chilli powder, cumin powder, coriander powder, and salt. Cook until the tomatoes are soft and mushy. Add beef and cook on medium heat until the beef is tender and the sauce has thickened. Serve hot with rice or naan.",
+                "rating": 4.2
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "pictureLink": "https://i.ibb.co/KrCvJsx/images-1.jpg",
+        "name": "Eleyas Hossain",
+        "experience": 9,
+        "bio": "Chef Jane has spent years mastering the art of spice blending and creating complex, aromatic dishes.",
+        "numRecipes": 3,
+        "numLikes": 976,
+        "recipes": [
+            {
+                "recipeName": "Shorshe Ilish",
+                "ingredients": "Hilsa fish, Mustard oil, Mustard paste, Green chilli, Turmeric",
+                "cookingMethod": "Marinate fish with salt and turmeric powder. Fry the fish in mustard oil until lightly browned. In a separate pan, heat mustard oil and add mustard paste and green chili. Add water and simmer until the sauce thickens. Add fried fish to the sauce and cook for a few minutes. Serve hot with steamed rice.",
+                "rating": 4.5
+            },
+            {
+                "recipeName": "Chicken Rezala",
+                "ingredients": "Chicken, Yogurt, Ghee, Onion, Ginger, Garlic, Cardamom, Cinnamon, Cloves, Bay leaves, Chilli powder, Salt",
+                "cookingMethod": "Marinate chicken with yogurt, chilli powder, and salt for at least an hour. Heat ghee in a pan and fry onion until golden brown. Add ginger and garlic paste and cook until fragrant. Add marinated chicken and cook until the chicken is tender. Add cardamom, cinnamon, cloves, and bay leaves and cook for a few more minutes. Serve hot with naan or paratha.",
+                "rating": 4.8
+            },
+            {
+                "recipeName": "Beef Bhuna",
+                "ingredients": "Beef, Onion, Garlic, Ginger, Tomatoes, Green chilli, Turmeric, Chilli powder, Cumin powder, Coriander powder, Salt",
+                "cookingMethod": "Heat oil in a pan and fry sliced onions until golden brown. Add garlic and ginger paste and fry until fragrant. Add diced tomatoes, green chilli, turmeric, chilli powder, cumin powder, coriander powder, and salt. Cook until the tomatoes are soft and mushy. Add beef and cook on medium heat until the beef is tender and the sauce has thickened. Serve hot with rice or naan.",
+                "rating": 4.2
+            }
+        ]
     }
 ]
