@@ -9,8 +9,8 @@
         "numLikes": 1879,
         "recipes": [
             {
-                "recipeName": "Shorshe Ilish",
-                "ingredients": "Hilsa fish, Mustard oil, Mustard paste, Green chilli, Turmeric",
+                "recipeName": "Shorshe Ilish Curry",
+                "ingredients": "Hilsa fish, Mustard oil, Mustard paste, Green chilli, Turmeric, Ginger, Garlic, Bay leaves, Cardamom, salt",
                 "cookingMethod": "Marinate fish with salt and turmeric powder. Fry the fish in mustard oil until lightly browned. In a separate pan, heat mustard oil and add mustard paste and green chili. Add water and simmer until the sauce thickens. Add fried fish to the sauce and cook for a few minutes. Serve hot with steamed rice.",
                 "rating": 4.5
             },
@@ -21,27 +21,7 @@
                 "rating": 4.8
             },
             {
-                "recipeName": "Beef Bhuna",
-                "ingredients": "Beef, Onion, Garlic, Ginger, Tomatoes, Green chilli, Turmeric, Chilli powder, Cumin powder, Coriander powder, Salt",
-                "cookingMethod": "Heat oil in a pan and fry sliced onions until golden brown. Add garlic and ginger paste and fry until fragrant. Add diced tomatoes, green chilli, turmeric, chilli powder, cumin powder, coriander powder, and salt. Cook until the tomatoes are soft and mushy. Add beef and cook on medium heat until the beef is tender and the sauce has thickened. Serve hot with rice or naan.",
-                "rating": 4.2
-            }
-        ],
-        "recipes": [
-            {
-                "recipeName": "Shorshe Ilish",
-                "ingredients": "Hilsa fish, Mustard oil, Mustard paste, Green chilli, Turmeric, Salt",
-                "cookingMethod": "Marinate fish with salt and turmeric powder. Fry the fish in mustard oil until lightly browned. In a separate pan, heat mustard oil and add mustard paste and green chili. Add water and simmer until the sauce thickens. Add fried fish to the sauce and cook for a few minutes. Serve hot with steamed rice.",
-                "rating": 4.5
-            },
-            {
-                "recipeName": "Chicken Rezala",
-                "ingredients": "Chicken, Yogurt, Ghee, Onion, Ginger, Garlic, Cardamom, Cinnamon, Cloves, Bay leaves, Chilli powder, Salt",
-                "cookingMethod": "Marinate chicken with yogurt, chilli powder, and salt for at least an hour. Heat ghee in a pan and fry onion until golden brown. Add ginger and garlic paste and cook until fragrant. Add marinated chicken and cook until the chicken is tender. Add cardamom, cinnamon, cloves, and bay leaves and cook for a few more minutes. Serve hot with naan or paratha.",
-                "rating": 4.8
-            },
-            {
-                "recipeName": "Beef Bhuna",
+                "recipeName": "Deshi Beef Bhuna",
                 "ingredients": "Beef, Onion, Garlic, Ginger, Tomatoes, Green chilli, Turmeric, Chilli powder, Cumin powder, Coriander powder, Salt",
                 "cookingMethod": "Heat oil in a pan and fry sliced onions until golden brown. Add garlic and ginger paste and fry until fragrant. Add diced tomatoes, green chilli, turmeric, chilli powder, cumin powder, coriander powder, and salt. Cook until the tomatoes are soft and mushy. Add beef and cook on medium heat until the beef is tender and the sauce has thickened. Serve hot with rice or naan.",
                 "rating": 4.2
@@ -58,8 +38,8 @@
         "numLikes": 1447,
         "recipes": [
             {
-                "recipeName": "Shorshe Ilish",
-                "ingredients": "Hilsa fish, Mustard oil, Mustard paste, Green chilli, Turmeric, Salt",
+                "recipeName": "Shorshe Ilish Curry",
+                "ingredients": "Hilsa fish, Mustard oil, Mustard paste, Green chilli, Turmeric, Ginger, Garlic, Bay leaves, Cardamom, salt",
                 "cookingMethod": "Marinate fish with salt and turmeric powder. Fry the fish in mustard oil until lightly browned. In a separate pan, heat mustard oil and add mustard paste and green chili. Add water and simmer until the sauce thickens. Add fried fish to the sauce and cook for a few minutes. Serve hot with steamed rice.",
                 "rating": 4.5
             },
@@ -70,27 +50,7 @@
                 "rating": 4.8
             },
             {
-                "recipeName": "Beef Bhuna",
-                "ingredients": "Beef, Onion, Garlic, Ginger, Tomatoes, Green chilli, Turmeric, Chilli powder, Cumin powder, Coriander powder, Salt",
-                "cookingMethod": "Heat oil in a pan and fry sliced onions until golden brown. Add garlic and ginger paste and fry until fragrant. Add diced tomatoes, green chilli, turmeric, chilli powder, cumin powder, coriander powder, and salt. Cook until the tomatoes are soft and mushy. Add beef and cook on medium heat until the beef is tender and the sauce has thickened. Serve hot with rice or naan.",
-                "rating": 4.2
-            }
-        ],
-        "recipes": [
-            {
-                "recipeName": "Shorshe Ilish",
-                "ingredients": "Hilsa fish, Mustard oil, Mustard paste, Green chilli, Turmeric",
-                "cookingMethod": "Marinate fish with salt and turmeric powder. Fry the fish in mustard oil until lightly browned. In a separate pan, heat mustard oil and add mustard paste and green chili. Add water and simmer until the sauce thickens. Add fried fish to the sauce and cook for a few minutes. Serve hot with steamed rice.",
-                "rating": 4.5
-            },
-            {
-                "recipeName": "Chicken Rezala",
-                "ingredients": "Chicken, Yogurt, Ghee, Onion, Ginger, Garlic, Cardamom, Cinnamon, Cloves, Bay leaves, Chilli powder, Salt",
-                "cookingMethod": "Marinate chicken with yogurt, chilli powder, and salt for at least an hour. Heat ghee in a pan and fry onion until golden brown. Add ginger and garlic paste and cook until fragrant. Add marinated chicken and cook until the chicken is tender. Add cardamom, cinnamon, cloves, and bay leaves and cook for a few more minutes. Serve hot with naan or paratha.",
-                "rating": 4.8
-            },
-            {
-                "recipeName": "Beef Bhuna",
+                "recipeName": "Deshi Beef Bhuna",
                 "ingredients": "Beef, Onion, Garlic, Ginger, Tomatoes, Green chilli, Turmeric, Chilli powder, Cumin powder, Coriander powder, Salt",
                 "cookingMethod": "Heat oil in a pan and fry sliced onions until golden brown. Add garlic and ginger paste and fry until fragrant. Add diced tomatoes, green chilli, turmeric, chilli powder, cumin powder, coriander powder, and salt. Cook until the tomatoes are soft and mushy. Add beef and cook on medium heat until the beef is tender and the sauce has thickened. Serve hot with rice or naan.",
                 "rating": 4.2
@@ -107,8 +67,8 @@
         "numLikes": 1234,
         "recipes": [
             {
-                "recipeName": "Shorshe Ilish",
-                "ingredients": "Hilsa fish, Mustard oil, Mustard paste, Green chilli, Turmeric",
+                "recipeName": "Shorshe Ilish Curry",
+                "ingredients": "Hilsa fish, Mustard oil, Mustard paste, Green chilli, Turmeric, Ginger, Garlic, Bay leaves, Cardamom, salt",
                 "cookingMethod": "Marinate fish with salt and turmeric powder. Fry the fish in mustard oil until lightly browned. In a separate pan, heat mustard oil and add mustard paste and green chili. Add water and simmer until the sauce thickens. Add fried fish to the sauce and cook for a few minutes. Serve hot with steamed rice.",
                 "rating": 4.5
             },
@@ -119,7 +79,7 @@
                 "rating": 4.8
             },
             {
-                "recipeName": "Beef Bhuna",
+                "recipeName": "Deshi Beef Bhuna",
                 "ingredients": "Beef, Onion, Garlic, Ginger, Tomatoes, Green chilli, Turmeric, Chilli powder, Cumin powder, Coriander powder, Salt",
                 "cookingMethod": "Heat oil in a pan and fry sliced onions until golden brown. Add garlic and ginger paste and fry until fragrant. Add diced tomatoes, green chilli, turmeric, chilli powder, cumin powder, coriander powder, and salt. Cook until the tomatoes are soft and mushy. Add beef and cook on medium heat until the beef is tender and the sauce has thickened. Serve hot with rice or naan.",
                 "rating": 4.2
@@ -136,8 +96,8 @@
         "numLikes": 1500,
         "recipes": [
             {
-                "recipeName": "Shorshe Ilish",
-                "ingredients": "Hilsa fish, Mustard oil, Mustard paste, Green chilli, Turmeric",
+                "recipeName": "Shorshe Ilish Curry",
+                "ingredients": "Hilsa fish, Mustard oil, Mustard paste, Green chilli, Turmeric, Ginger, Garlic, Bay leaves, Cardamom, salt",
                 "cookingMethod": "Marinate fish with salt and turmeric powder. Fry the fish in mustard oil until lightly browned. In a separate pan, heat mustard oil and add mustard paste and green chili. Add water and simmer until the sauce thickens. Add fried fish to the sauce and cook for a few minutes. Serve hot with steamed rice.",
                 "rating": 4.5
             },
@@ -148,7 +108,7 @@
                 "rating": 4.8
             },
             {
-                "recipeName": "Beef Bhuna",
+                "recipeName": "Deshi Beef Bhuna",
                 "ingredients": "Beef, Onion, Garlic, Ginger, Tomatoes, Green chilli, Turmeric, Chilli powder, Cumin powder, Coriander powder, Salt",
                 "cookingMethod": "Heat oil in a pan and fry sliced onions until golden brown. Add garlic and ginger paste and fry until fragrant. Add diced tomatoes, green chilli, turmeric, chilli powder, cumin powder, coriander powder, and salt. Cook until the tomatoes are soft and mushy. Add beef and cook on medium heat until the beef is tender and the sauce has thickened. Serve hot with rice or naan.",
                 "rating": 4.2
@@ -165,8 +125,8 @@
         "numLikes": 907,
         "recipes": [
             {
-                "recipeName": "Shorshe Ilish",
-                "ingredients": "Hilsa fish, Mustard oil, Mustard paste, Green chilli, Turmeric",
+                "recipeName": "Shorshe Ilish Curry",
+                "ingredients": "Hilsa fish, Mustard oil, Mustard paste, Green chilli, Turmeric, Ginger, Garlic, Bay leaves, Cardamom, salt",
                 "cookingMethod": "Marinate fish with salt and turmeric powder. Fry the fish in mustard oil until lightly browned. In a separate pan, heat mustard oil and add mustard paste and green chili. Add water and simmer until the sauce thickens. Add fried fish to the sauce and cook for a few minutes. Serve hot with steamed rice.",
                 "rating": 4.5
             },
@@ -177,7 +137,7 @@
                 "rating": 4.8
             },
             {
-                "recipeName": "Beef Bhuna",
+                "recipeName": "Deshi Beef Bhuna",
                 "ingredients": "Beef, Onion, Garlic, Ginger, Tomatoes, Green chilli, Turmeric, Chilli powder, Cumin powder, Coriander powder, Salt",
                 "cookingMethod": "Heat oil in a pan and fry sliced onions until golden brown. Add garlic and ginger paste and fry until fragrant. Add diced tomatoes, green chilli, turmeric, chilli powder, cumin powder, coriander powder, and salt. Cook until the tomatoes are soft and mushy. Add beef and cook on medium heat until the beef is tender and the sauce has thickened. Serve hot with rice or naan.",
                 "rating": 4.2
@@ -194,8 +154,8 @@
         "numLikes": 1776,
         "recipes": [
             {
-                "recipeName": "Shorshe Ilish",
-                "ingredients": "Hilsa fish, Mustard oil, Mustard paste, Green chilli, Turmeric",
+                "recipeName": "Shorshe Ilish Curry",
+                "ingredients": "Hilsa fish, Mustard oil, Mustard paste, Green chilli, Turmeric, Ginger, Garlic, Bay leaves, Cardamom, salt",
                 "cookingMethod": "Marinate fish with salt and turmeric powder. Fry the fish in mustard oil until lightly browned. In a separate pan, heat mustard oil and add mustard paste and green chili. Add water and simmer until the sauce thickens. Add fried fish to the sauce and cook for a few minutes. Serve hot with steamed rice.",
                 "rating": 4.5
             },
@@ -206,7 +166,7 @@
                 "rating": 4.8
             },
             {
-                "recipeName": "Beef Bhuna",
+                "recipeName": "Deshi Beef Bhuna",
                 "ingredients": "Beef, Onion, Garlic, Ginger, Tomatoes, Green chilli, Turmeric, Chilli powder, Cumin powder, Coriander powder, Salt",
                 "cookingMethod": "Heat oil in a pan and fry sliced onions until golden brown. Add garlic and ginger paste and fry until fragrant. Add diced tomatoes, green chilli, turmeric, chilli powder, cumin powder, coriander powder, and salt. Cook until the tomatoes are soft and mushy. Add beef and cook on medium heat until the beef is tender and the sauce has thickened. Serve hot with rice or naan.",
                 "rating": 4.2
@@ -223,8 +183,8 @@
         "numLikes": 786,
         "recipes": [
             {
-                "recipeName": "Shorshe Ilish",
-                "ingredients": "Hilsa fish, Mustard oil, Mustard paste, Green chilli, Turmeric",
+                "recipeName": "Shorshe Ilish Curry",
+                "ingredients": "Hilsa fish, Mustard oil, Mustard paste, Green chilli, Turmeric, Ginger, Garlic, Bay leaves, Cardamom, salt",
                 "cookingMethod": "Marinate fish with salt and turmeric powder. Fry the fish in mustard oil until lightly browned. In a separate pan, heat mustard oil and add mustard paste and green chili. Add water and simmer until the sauce thickens. Add fried fish to the sauce and cook for a few minutes. Serve hot with steamed rice.",
                 "rating": 4.5
             },
@@ -235,7 +195,7 @@
                 "rating": 4.8
             },
             {
-                "recipeName": "Beef Bhuna",
+                "recipeName": "Deshi Beef Bhuna",
                 "ingredients": "Beef, Onion, Garlic, Ginger, Tomatoes, Green chilli, Turmeric, Chilli powder, Cumin powder, Coriander powder, Salt",
                 "cookingMethod": "Heat oil in a pan and fry sliced onions until golden brown. Add garlic and ginger paste and fry until fragrant. Add diced tomatoes, green chilli, turmeric, chilli powder, cumin powder, coriander powder, and salt. Cook until the tomatoes are soft and mushy. Add beef and cook on medium heat until the beef is tender and the sauce has thickened. Serve hot with rice or naan.",
                 "rating": 4.2
@@ -252,8 +212,8 @@
         "numLikes": 976,
         "recipes": [
             {
-                "recipeName": "Shorshe Ilish",
-                "ingredients": "Hilsa fish, Mustard oil, Mustard paste, Green chilli, Turmeric",
+                "recipeName": "Shorshe Ilish Curry",
+                "ingredients": "Hilsa fish, Mustard oil, Mustard paste, Green chilli, Turmeric, Ginger, Garlic, Bay leaves, Cardamom, salt",
                 "cookingMethod": "Marinate fish with salt and turmeric powder. Fry the fish in mustard oil until lightly browned. In a separate pan, heat mustard oil and add mustard paste and green chili. Add water and simmer until the sauce thickens. Add fried fish to the sauce and cook for a few minutes. Serve hot with steamed rice.",
                 "rating": 4.5
             },
@@ -264,7 +224,7 @@
                 "rating": 4.8
             },
             {
-                "recipeName": "Beef Bhuna",
+                "recipeName": "Deshi Beef Bhuna",
                 "ingredients": "Beef, Onion, Garlic, Ginger, Tomatoes, Green chilli, Turmeric, Chilli powder, Cumin powder, Coriander powder, Salt",
                 "cookingMethod": "Heat oil in a pan and fry sliced onions until golden brown. Add garlic and ginger paste and fry until fragrant. Add diced tomatoes, green chilli, turmeric, chilli powder, cumin powder, coriander powder, and salt. Cook until the tomatoes are soft and mushy. Add beef and cook on medium heat until the beef is tender and the sauce has thickened. Serve hot with rice or naan.",
                 "rating": 4.2
